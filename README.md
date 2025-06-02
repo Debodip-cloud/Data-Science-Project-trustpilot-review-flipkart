@@ -1,5 +1,5 @@
 # Data-Science-Project-trustpilot-review-flipkart
-This is a data Science master project. It a comprehensive data science projectnvlving analyzing Trustpilot reviews of Flipkart. Here, I do webscraping and analysis of trustpilot reviews on flipkart.
+This is a data Science master project. It a comprehensive data science project involving analyzing Trustpilot reviews of Flipkart. Here, I do webscraping and analysis of trustpilot reviews on flipkart.
 ## Objectives
 
 * Extract data through webscraping

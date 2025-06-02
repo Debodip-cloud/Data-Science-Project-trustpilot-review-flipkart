@@ -1,12 +1,13 @@
 # Data-Science-Project-trustpilot-review-flipkart
 This is a data Science master project. It a comprehensive data science projectnvlving analyzing Trustpilot reviews of Flipkart. Here, I do webscraping and analysis of trustpilot reviews on flipkart.
 ## Objectives
-Extract data through webscraping
-Sentiment analysis and prediction
-Predicting Rating from Content
-Visualising sentiment distribution
-Finding and Visualising top keywords in each rating
-Visualising how sentiment correlates with actual ratings
+
+  Extract data through webscraping
+  Sentiment analysis and prediction
+  Predicting Rating from Content
+  Visualising sentiment distribution
+  Finding and Visualising top keywords in each rating
+  Visualising how sentiment correlates with actual ratings
 
 
 ## Achievements
